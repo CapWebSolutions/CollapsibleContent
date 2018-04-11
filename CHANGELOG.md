@@ -20,11 +20,9 @@ To install this plugin, you can download it by clikcing on the Github download b
 4. Goto Plugins and activate the Collapsible Content plugin
 
 ## Continue Development
-If you wish to contineu the development you will need to have xxx installed on your machine.
+If you wish to continue the development you will need to have xxx installed on your machine.
 
-1. Navigate tols
-
-
+1. Navigate to
 2. Type 
 3. Type 
 ### 1.0.0.
